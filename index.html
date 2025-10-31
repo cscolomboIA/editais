@@ -132,8 +132,21 @@
     const daysBetween = (a,b)=> Math.ceil((b - a)/(1000*60*60*24));
 
     async function loadData(){
+      // Determina o diretório atual (ex.: /editais/) para montar o caminho absoluto do JSON
+      const base = (function(){
+        const p = location.pathname;
+        return p.endsWith('/') ? p : p.replace(/[^/]+$/, '');
+      })();
+      const url = `${base}editais.json?ts=${Date.now()}`; // cache-busting
       try{
-        const r = await fetch('editais.json', {cache:'no-store'});
+        const r = await fetch(url, {cache:'no-store'});
+        if(!r.ok) throw new Error('no editais.json');
+        return await r.json();
+      }catch(err){
+        const seed = document.getElementById('seed').textContent;
+        return JSON.parse(seed);
+      }
+    });
         if(!r.ok) throw new Error('no editais.json');
         return await r.json();
       }catch(err){
