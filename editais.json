@@ -1,0 +1,55 @@
+{
+  "updated_at": "2025-10-31",
+  "items": [
+    {
+      "uf": "SC",
+      "agency": "FAPESC",
+      "title": "EXEMPLO – (substitua pelo título do edital)",
+      "url": "https://www.fapesc.sc.gov.br/...",
+      "deadline": null,
+      "accepts_out_of_state": null,
+      "notes": "Preencha com observações: trecho do edital que confirma a elegibilidade de outras UFs.",
+      "source": "site da agência"
+    },
+    {
+      "uf": "MG",
+      "agency": "FAPEMIG",
+      "title": "EXEMPLO – (substitua pelo título do edital)",
+      "url": "https://fapemig.br/...",
+      "deadline": null,
+      "accepts_out_of_state": null,
+      "notes": "Copie a cláusula de elegibilidade aqui.",
+      "source": "site da agência"
+    },
+    {
+      "uf": "RJ",
+      "agency": "FAPERJ",
+      "title": "EXEMPLO – (substitua pelo título do edital)",
+      "url": "https://www.faperj.br/...",
+      "deadline": null,
+      "accepts_out_of_state": null,
+      "notes": "Cole a frase que confirma (ou nega) participação de outras UFs.",
+      "source": "site da agência"
+    },
+    {
+      "uf": "SP",
+      "agency": "FAPESP",
+      "title": "EXEMPLO – (substitua pelo título do edital)",
+      "url": "https://fapesp.br/...",
+      "deadline": null,
+      "accepts_out_of_state": null,
+      "notes": "Em geral requer vínculo em SP; valide o caso específico.",
+      "source": "site da agência"
+    },
+    {
+      "uf": "BA",
+      "agency": "FAPESB",
+      "title": "EXEMPLO – (substitua pelo título do edital)",
+      "url": "http://www.fapesb.ba.gov.br/...",
+      "deadline": null,
+      "accepts_out_of_state": null,
+      "notes": "Indique se há cooperação nacional/interestadual.",
+      "source": "site da agência"
+    }
+  ]
+}
