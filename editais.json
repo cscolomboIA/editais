@@ -6,7 +6,7 @@
       "agency": "FUNTAC – Fundação de Tecnologia do Estado do Acre",
       "title": "Página de editais – FUNTAC – Fundação de Tecnologia do Estado do Acre",
       "url": "https://www.funtac.ac.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -16,7 +16,7 @@
       "agency": "FAPEAL – Fundação de Amparo à Pesquisa do Estado de Alagoas",
       "title": "Página de editais – FAPEAL – Fundação de Amparo à Pesquisa do Estado de Alagoas",
       "url": "http://www.fapeal.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -26,7 +26,7 @@
       "agency": "FAPEAP – Fundação de Amparo à Pesquisa do Amapá",
       "title": "Página de editais – FAPEAP – Fundação de Amparo à Pesquisa do Amapá",
       "url": "https://www.fapeap.ap.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -36,7 +36,7 @@
       "agency": "FAPEAM – Fundação de Amparo à Pesquisa do Estado do Amazonas",
       "title": "Página de editais – FAPEAM – Fundação de Amparo à Pesquisa do Estado do Amazonas",
       "url": "https://www.fapeam.am.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -46,7 +46,7 @@
       "agency": "FAPESB – Fundação de Amparo à Pesquisa do Estado da Bahia",
       "title": "Página de editais – FAPESB – Fundação de Amparo à Pesquisa do Estado da Bahia",
       "url": "http://www.fapesb.ba.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -56,7 +56,7 @@
       "agency": "FUNCAP – Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico",
       "title": "Página de editais – FUNCAP – Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico",
       "url": "https://www.funcap.ce.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -66,7 +66,7 @@
       "agency": "FAPDF – Fundação de Apoio à Pesquisa do Distrito Federal",
       "title": "Página de editais – FAPDF – Fundação de Apoio à Pesquisa do Distrito Federal",
       "url": "https://fap.df.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -76,7 +76,7 @@
       "agency": "FAPES – Fundação de Amparo à Pesquisa e Inovação do Espírito Santo",
       "title": "Página de editais – FAPES – Fundação de Amparo à Pesquisa e Inovação do Espírito Santo",
       "url": "https://fapes.es.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -86,7 +86,7 @@
       "agency": "FAPEG – Fundação de Amparo à Pesquisa do Estado de Goiás",
       "title": "Página de editais – FAPEG – Fundação de Amparo à Pesquisa do Estado de Goiás",
       "url": "http://www.fapeg.go.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -96,7 +96,7 @@
       "agency": "FAPEMA – Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão",
       "title": "Página de editais – FAPEMA – Fundação de Amparo à Pesquisa e ao Desenvolvimento Científico e Tecnológico do Maranhão",
       "url": "https://www.fapema.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -106,7 +106,7 @@
       "agency": "FAPEMAT – Fundação de Amparo à Pesquisa do Estado de Mato Grosso",
       "title": "Página de editais – FAPEMAT – Fundação de Amparo à Pesquisa do Estado de Mato Grosso",
       "url": "http://www.fapemat.mt.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -116,7 +116,7 @@
       "agency": "FUNDECT – Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul",
       "title": "Página de editais – FUNDECT – Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul",
       "url": "https://www.fundect.ms.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -126,7 +126,7 @@
       "agency": "FAPEMIG – Fundação de Amparo à Pesquisa do Estado de Minas Gerais",
       "title": "Página de editais – FAPEMIG – Fundação de Amparo à Pesquisa do Estado de Minas Gerais",
       "url": "http://www.fapemig.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -136,7 +136,7 @@
       "agency": "FAPESPA – Fundação Amazônia de Amparo a Estudos e Pesquisas",
       "title": "Página de editais – FAPESPA – Fundação Amazônia de Amparo a Estudos e Pesquisas",
       "url": "https://www.fapespa.pa.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -146,7 +146,7 @@
       "agency": "FAPESQ – Fundação de Apoio à Pesquisa do Estado da Paraíba",
       "title": "Página de editais – FAPESQ – Fundação de Apoio à Pesquisa do Estado da Paraíba",
       "url": "https://www.fapesq.rpp.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -156,7 +156,7 @@
       "agency": "FUNDAÇÃO ARAUCÁRIA",
       "title": "Página de editais – FUNDAÇÃO ARAUCÁRIA",
       "url": "http://www.fap.pr.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -166,7 +166,7 @@
       "agency": "FACEPE – Fundação de Amparo à Ciência e Tecnologia de Pernambuco",
       "title": "Página de editais – FACEPE – Fundação de Amparo à Ciência e Tecnologia de Pernambuco",
       "url": "http://www.facepe.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -176,7 +176,7 @@
       "agency": "FAPEPI – Fundação de Amparo à Pesquisa do Estado do Piauí",
       "title": "Página de editais – FAPEPI – Fundação de Amparo à Pesquisa do Estado do Piauí",
       "url": "https://www.fapepi.pi.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -186,7 +186,7 @@
       "agency": "FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
       "title": "Página de editais – FAPERJ – Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro",
       "url": "http://www.faperj.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -196,7 +196,7 @@
       "agency": "FAPERN – Fundação de Amparo à Pesquisa do Estado do Rio Grande do Norte",
       "title": "Página de editais – FAPERN – Fundação de Amparo à Pesquisa do Estado do Rio Grande do Norte",
       "url": "http://www.fapern.rn.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -206,7 +206,7 @@
       "agency": "FAPERGS – Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul",
       "title": "Página de editais – FAPERGS – Fundação de Amparo à Pesquisa do Estado do Rio Grande do Sul",
       "url": "https://fapergs.rs.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -216,7 +216,7 @@
       "agency": "FAPERO – Fundação de Amparo ao Desenvolvimento das Ações Científicas e Tecnológicas e à Pesquisa de Rondônia",
       "title": "Página de editais – FAPERO – Fundação de Amparo ao Desenvolvimento das Ações Científicas e Tecnológicas e à Pesquisa de Rondônia",
       "url": "http://www.fapero.ro.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -226,7 +226,7 @@
       "agency": "FAPERR – Fundação de Amparo à Pesquisa do Estado de Roraima",
       "title": "Página de editais – FAPERR – Fundação de Amparo à Pesquisa do Estado de Roraima",
       "url": "https://www.faperr.rr.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -236,7 +236,7 @@
       "agency": "FAPESC – Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina",
       "title": "Página de editais – FAPESC – Fundação de Amparo à Pesquisa e Inovação do Estado de Santa Catarina",
       "url": "https://www.fapesc.sc.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -246,7 +246,7 @@
       "agency": "FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo",
       "title": "Página de editais – FAPESP – Fundação de Amparo à Pesquisa do Estado de São Paulo",
       "url": "https://fapesp.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -256,7 +256,7 @@
       "agency": "FAPITEC – Fundação de Apoio à Pesquisa e à Inovação Tecnológica de Sergipe",
       "title": "Página de editais – FAPITEC – Fundação de Apoio à Pesquisa e à Inovação Tecnológica de Sergipe",
       "url": "https://www.fapitec.se.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
@@ -266,7 +266,7 @@
       "agency": "FAPT – Fundação de Amparo à Pesquisa do Estado do Tocantins",
       "title": "Página de editais – FAPT – Fundação de Amparo à Pesquisa do Estado do Tocantins",
       "url": "https://fapt.to.gov.br/",
-      "deadline": null,
+      "deadline": all,
       "accepts_out_of_state": null,
       "notes": "Substitua por edital específico com prazo e elegibilidade quando houver.",
       "source": "site da agência"
